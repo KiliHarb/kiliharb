@@ -8,13 +8,13 @@
 **My Fiverr Page:** https://fiverr.com/kiliharb
 
 ## Finished Projects
-### 2022 **KA PLANNER**
+### 2022 - **KA PLANNER**
 The "Kilian Antonella Planner" is a note app I made for my girlfriend and me.\
 For this project I used Flutter and Spring.\
 https://github.com/KiliHarb/ka_planner_frontend \
 https://github.com/KiliHarb/ka_planner_backend
 
-### 2020 **GAME BARRIER** -> https://gamebarrier.com
+### 2020 - **GAME BARRIER** -> https://gamebarrier.com
 This is the first website I have completed.
 I only used HTML, JS and CSS for this project.
 Currently I am working on https://beta.gamebarrier.com. \
