@@ -10,7 +10,7 @@ FallingCube Media: coming soon...
 **My Fiverr Page:** https://fiverr.com/kiliharb
 
 ## WIP
-### **Rebuild od the USV Homepage**
+### **Rebuild od the USV Potsdam Homepage**
 Current website: https://usv-potsdam.de
 
 ## Finished Projects
